@@ -1,0 +1,4 @@
+python-dotenv
+dune-client
+python-telegram-bot
+pandas
